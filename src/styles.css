@@ -52,12 +52,12 @@ a {
     justify-content: space-around;
     gap: 18px;
     background-color: #1f2937;
-    padding: 16px 128px;
+    padding: 48px 128px;
 }
 
 .cont1 img {
     width: 640px;
-    height: auto;
+    height: 320px;
     object-fit: cover;
     flex-shrink: 0;
 }
